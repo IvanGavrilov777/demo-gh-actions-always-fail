@@ -2,7 +2,7 @@
 
 
 
-Simple Github Actions test that always passes
+Simple Github Actions test that always fails
 
 ## Setup instructions
 
